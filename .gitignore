@@ -38,10 +38,3 @@ env/
 *.swp
 *.swo
 
-# Datasets
-*.csv
-car details v4.csv
-
-# Output and Models
-models/
-outputs/

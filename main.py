@@ -3,7 +3,7 @@ from src.evaluate import evaluate_model
 import os
 
 if __name__ == "__main__":
-    DATA_PATH = 'car details v4.csv'
+    DATA_PATH = 'dataset/car details v4.csv'
     MODELS_DIR = 'models'
     OUTPUTS_DIR = 'outputs'
     

@@ -107,4 +107,4 @@ def evaluate_model(data_path, models_dir, outputs_dir):
     print("Evaluation complete! Plots saved in", outputs_dir)
 
 if __name__ == "__main__":
-    evaluate_model('car details v4.csv', 'models', 'outputs')
+    evaluate_model('dataset/car details v4.csv', 'models', 'outputs')

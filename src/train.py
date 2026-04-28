@@ -74,4 +74,4 @@ def train_model(data_path, models_dir):
     print("Training complete!")
 
 if __name__ == "__main__":
-    train_model('car details v4.csv', 'models')
+    train_model('dataset/car details v4.csv', 'models')
